@@ -693,7 +693,3 @@ Example:
 > Functional requirements define the features and behavior of the system, while non-functional requirements define the quality attributes and constraints under which those features must operate.
 
 ---
-
-## Next Topic
-
-**System Design Requirements Gathering**
