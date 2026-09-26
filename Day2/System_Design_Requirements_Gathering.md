@@ -953,7 +953,3 @@ A system may provide all required features but still fail because it is:
 > Requirements Gathering is the process of identifying and understanding the functional requirements, non-functional requirements, users, scale, constraints, data, performance, availability, security, and other expectations of a system before designing its architecture.
 
 ---
-
-## Next Topic
-
-**OOP – Abstraction & Encapsulation**
